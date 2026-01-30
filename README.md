@@ -69,3 +69,4 @@ Finally, you may stop the local validator using the following command.
 ```sh
 make stop-test-validator
 ```
+spl_associated_token_account::instruction::create_associated_token_account
