@@ -44,7 +44,7 @@ pnpm generate:clients
 
 ## Managing clients
 
-The following clients are available. You may use the following links to learn
+5yPqwFnxQJnUk1GMhdeJHfkhNxQWgghKd1NhXkcjgnGWFjbEFgk3vyxQzeyEgo9fbDCbrTzxdt5ViSLQNYEfhcANThe following clients are available. You may use the following links to learn
 more about each client:
 
 - [JS client (auto-generated with Kit)](./clients/js)
