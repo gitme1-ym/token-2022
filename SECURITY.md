@@ -36,3 +36,4 @@ Only the `spl-token-2022` program is included in the bounty scope, at [program](
 
 If you discover a critical security issue in an out-of-scope component, your finding
 may still be valuable.
+https://github.com/solana-program/token-2022/blob/main/.github%2Fdependabot.yml
